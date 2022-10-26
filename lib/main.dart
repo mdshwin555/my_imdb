@@ -4,6 +4,8 @@ import 'package:my_imdb/UI/Screens/Home.dart';
 import 'package:my_imdb/UI/Screens/ViewAll.dart';
 import 'UI/Screens/MovieDetails.dart';
 
+//test
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
