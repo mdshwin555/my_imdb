@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg"  /></p>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshwin555&" alt="mdshwin555" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshwin555&show_icons=true&locale=en&layout=compact" alt="mdshwin555" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshwin555&show_icons=true&locale=en" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshwin555&show_icons=true&locale=en" alt="mdshwin555" /></p>
 <h3 align="left">🏆 GitHub Profile Trophies:</h3>
